@@ -13,3 +13,7 @@ Learning PyTorch-Lightning
 
 一个Trainer，两个Module (Dataset和model) \
 详见代码`mnist_cls.py`
+
+## TODO
+1. 模型的保存，加载
+2. Transfer Learning
